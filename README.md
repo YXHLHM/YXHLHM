@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 　　　　 　　  ＿＿
+# 　　　 　　 ／＞　　フ
+# 　　　 　　| 　_　 _ l
+# 　 　　 　／` ミ＿xノ
+# 　　 　 /　　　 　 |       Feed me Stars ⭐ ️ (◕‿◕✿)  Happy Coding!
+# 　　　 /　 ヽ　　 ﾉ
+# 　 　 │　　|　|　|
+# 　／￣|　　 |　|　|
+# 　| (￣ヽ＿_ヽ_)__)
+# 　＼二つ
