@@ -1,26 +1,8 @@
-## Hi there 👋
-
-<!--
-**YXHLHM/YXHLHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 　　　　 　　  ＿＿
-# 　　　 　　 ／＞　　フ
-# 　　　 　　| 　_　 _ l
-# 　 　　 　／` ミ＿xノ
-# 　　 　 /　　　 　 |       Feed me Stars ⭐ ️ (◕‿◕✿)  Happy Coding!
-# 　　　 /　 ヽ　　 ﾉ
-# 　 　 │　　|　|　|
-# 　／￣|　　 |　|　|
-# 　| (￣ヽ＿_ヽ_)__)
-# 　＼二つ
+<div style="font-family: monospace; background: #fefefe; padding: 1em; border: 1px solid #ccc; display: inline-block; border-radius: 10px;">
+  <div style="margin-bottom: 0.5em; color: #333; font-weight: bold;">😺 喵喵说：</div>
+  <pre style="margin: 0; color: #e91e63;">
+    /\_/\  
+   ( o.o )   < 早上好，人类！
+    > ^ <
+  </pre>
+</div>
