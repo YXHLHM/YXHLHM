@@ -1,27 +1,14 @@
-<style>
-@keyframes blink {
-  0%, 100% { content: "( o.o )"; }
-  50% { content: "( -.- )"; }
-}
-.cat::after {
-  content: "( o.o )";
-  animation: blink 2s infinite;
-  display: inline-block;
-}
-.speech {
-  background: #fff8dc;
-  border: 2px solid #f9a825;
-  border-radius: 8px;
-  padding: 0.5em;
-  font-family: monospace;
-  margin-bottom: 0.3em;
-  display: inline-block;
-}
-</style>
+```
+😺：「喵呜～欢迎来到我的 GitHub！」
 
-<div class="speech">😺：盯着你看中…… 💤</div>
-<pre style="font-family: monospace;">
- /\_/\
-<span class="cat"></span>
- > ^ <
-</pre>
+　　　　 　　  ＿＿
+  　　　 　　 ／＞　　フ
+  　　　 　　| 　_　 _ l
+  　 　　 　／` ミ＿xノ
+  　　 　 /　　　 　 |   Feed me Stars ⭐️ (◕‿◕✿)
+  　　　 /　 ヽ　　 ﾉ
+  　 　 │　　|　|　|
+  　／￣|　　 |　|　|
+  　| (￣ヽ＿_ヽ_)__)
+  　＼二つ
+```
